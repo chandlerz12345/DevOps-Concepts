@@ -1,6 +1,6 @@
 ## DevOps-Concepts 
 
-Cloud Scalability and Reliability 
+## Cloud Scalability and Reliability 
 
 The reality is, cloud success can’t happen without interconnection. The following are three proven ways harnessing direct and secure interconnection optimizes enterprise cloud strategies:
 

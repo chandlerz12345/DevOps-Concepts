@@ -22,3 +22,5 @@ Continuous testing runs in every iteration, such as when we run Maven.
 We use regression tests when we add new programming code or alter existing code. We want to be sure that the other code keeps working.
 Performance tests measure the time it takes to run the software.
 Acceptance tests check if the stakeholders are happy with the software and that they are willing to pay the bill.
+
+##
