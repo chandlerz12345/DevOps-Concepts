@@ -1,0 +1,1 @@
+Jenkins is a way to help with continuous development in the software delivery lifecycle. It allows for mass scaling and different copies to be produced. It used to be where the code gets pushed at night, and then the developers look at the new code the next day but now there is a continuous development cycle
